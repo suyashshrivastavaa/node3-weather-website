@@ -25,6 +25,7 @@ app.get('', (req, res) => {
         title: 'Weather',
         name: 'Suyash'
     })
+
 })
 
 app.get('/about', (req, res) => {
